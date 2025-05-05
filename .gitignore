@@ -175,7 +175,7 @@ cython_debug/
 
 # Data files
 .pdf
-.docs
+.doc
 .docx
 .csv
 .xls
