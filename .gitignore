@@ -174,9 +174,10 @@ cython_debug/
 .pypirc
 
 # Data files
-.pdf
-.doc
-.docx
-.csv
-.xls
-.xlsx
+*.pdf
+*.doc
+*.docx
+*.csv
+*.xls
+*.xlsx
+/Data
